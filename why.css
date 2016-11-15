@@ -1,0 +1,11 @@
+.visible {
+  color: blue;
+}
+
+.invisible {
+  color: transparent;
+}
+body{
+  background: #000;
+  padding-top: 10px;
+}
