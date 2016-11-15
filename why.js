@@ -4,7 +4,7 @@
 confirm("We are about to know reason why you are learning code")
 
 
-var text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+var text = "The reasons why I’m learning how to code are to have a tangible expression of my will.  Other reasons crossed my mind such as: money, fame and even power however,  being able to design, create, and innovate websites, Apps among other things using computer code in my own way would be my real “why” of learning how to code.The other reason that I’m learning how to code is because I would like to compose my own music using code  and I would like to show my performance to the world so they can understand that code can and will be used for many different purposes such as creating music. In that way the music melody would be my software and the computer would be my instrument.The last reason would be…. So I can be remembered after I die. The code that I wrote or composed would be in the World Wide Web available for people to read and use. Lastly, I would like to help other people..",
     soFar = "This is WHY :           ";
 
 var visible = document.querySelector(".visible"),
