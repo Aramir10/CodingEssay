@@ -8,6 +8,7 @@ var text = "The reasons why I’m learning how to code are to have a tangible ex
     soFar = "This is WHY :           ";
 
 var visible = document.querySelector(".visible"),
+
     invisible = document.querySelector(".invisible");
 
 invisible.innerHTML = text;
